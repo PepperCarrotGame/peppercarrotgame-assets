@@ -26,5 +26,6 @@ Carrot placeholders (crops in various colors) by Alex Roman derivatives of
 
 Character GUI graphics (crops/color changes) by Alex Roman derivatives of various Pepper & Carrot E11P02 and characters lineart by D. Revoy, CC-By
 
-** All files under: /Images/Characters/Pepper/ **
+**All files under: /Images/Characters/Pepper/**
+
 Pepper rig adapted for Godot (crops, traces) by Alex Roman derivative of «Pepper» character rig for Blender by Nikolai Mamashev
